@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+
+[remote "origin"]
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	url = https://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@github.com/RexsyBima/Obsidian.git
+[branch "main"]
+	merge = refs/heads/main
+	remote = origin
