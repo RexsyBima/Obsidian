@@ -35,8 +35,8 @@ Here's what each TAGS does :
 - `<h1>`: This is a heading element. The number indicates the level of the heading (1-6, with 1 being the highest and most important level).
 - `<p>`: This is a paragraph element.
 
-[[2-HTML - Lists - Tags]]
-[[3-HTML - div and span tags]]
+[[5.5 -HTML tags - basic - lists]]
+[[5.6-HTML tags- basic - div and span]]
 [[4-HTML attributes - basics]]
 [[5-HTML tags - basic]]
 
