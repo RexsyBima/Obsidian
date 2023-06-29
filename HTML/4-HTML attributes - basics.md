@@ -10,6 +10,12 @@ Attributes usually come in name/value pairs like `name="value"` and are always d
 <div class="myClass">This is a text inside a div element.</div>
 ```
 
+Rule for **class** :
+- The `class` attribute is used when you want to target a **group of elements** or an element that isn't necessarily unique.
+- Multiple elements can have the same `class`, and a single element can have multiple classes.
+- The `class` is used for styling a group of elements with CSS or accessing a group of elements with JavaScript.
+- You should use `class` when you want to style multiple elements in the same way.
+
 2. **id**: 
 	The id attribute specifies a unique id for an HTML element. It is mostly used to point to a style in a style sheet, and by JavaScript to manipulate the element with the specific id.
 	
@@ -17,6 +23,12 @@ Attributes usually come in name/value pairs like `name="value"` and are always d
 ```HTML
 <div id="myID">This is another text inside a div element.</div>
 ```
+
+Rule for **ID** :
+- The `id` attribute is used when you need to target a **specific, unique element** on the page.
+- An `id` must be **unique** within the page. No two elements can have the same `id`.
+- The `id` can be used for bookmarking a section on the page, styling a specific element with CSS, or accessing a specific element with JavaScript.
+- You should use `id` when you know that only one element on the page would require a specific style or when you need to select a specific element with JavaScript.
 
 3. **style**: 
 	The style attribute is used to add styles to an element, such as color, font, size, and more. It's a good practice to keep your CSS separate from HTML in an external style sheet, but this can be useful for small projects or testing.
