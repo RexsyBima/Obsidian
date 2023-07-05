@@ -33,3 +33,8 @@ Berikut adalah file yudisium yang dikirimkan ke email HI:
 7. Lembar pengesahan skripsi (ttd Dekan)= https://bit.ly/LayananAkademik_Gasal2022_2023
 8. Pas foto 3x4 dan 4x6
 9. Bukti upload UPT Repository Unsoed
+- Telah mengisi dan menandatangani Lembar Pernyataan Persetujuan Publikasi Karya Ilmiah Untuk Kepentingan Akademis bermaterai 10.000**.** Lembar Pernyataan ini di scanning dalam bentuk PDF berwarna dan diunggah bersamaan dengan pembuatan Akun Unggah mandiri. (Lembar tersebut dapat diunduh melalui laman website [http://perpus.unsoed.ac.id/downloads/](http://perpus.unsoed.ac.id/downloads/))
+- 1. Buka formulir pembuatan akun unggah mandiri melalui url [https://forms.gle/PeQ19yjSASWkK2kRA](https://forms.gle/PeQ19yjSASWkK2kRA)
+- https://repository.unsoed.ac.id/petunjuk.html
+- https://perpus.unsoed.ac.id/downloads/
+- https://drive.google.com/file/d/1VO_-mOLco23KImuZncwEhlzVfTSKtvGr/view?pli=1
