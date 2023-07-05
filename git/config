@@ -12,3 +12,6 @@
 [branch "main"]
 	merge = refs/heads/main
 	remote = origin
+[user]
+	email = Rexsy.Bimq12@gmail.com
+	name = RexsyBima

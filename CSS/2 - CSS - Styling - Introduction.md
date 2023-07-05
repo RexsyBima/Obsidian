@@ -15,7 +15,7 @@ In this rule, `p` is the selector, and the declarations are `color: green;` and 
 
 You can style almost any visual aspect of an HTML element with CSS. Here are just a few of the many properties you can set:
 
-- `color`: The text color.
+- `color`: The text color. [[2.1 - CSS - Styling - Color]]
 - `background-color`: The background color of an element.
 - `font-size`: The size of the text.
 - `font-family`: The typeface of the text.
@@ -31,3 +31,10 @@ Styling with CSS is very powerful and flexible. You can apply styles to elements
 CSS also has advanced features for more sophisticated styling, such as animations, gradients, transitions, and transformations. You can even create responsive designs that adapt to different screen sizes using media queries. 
 
 The possibilities with CSS are vast, and the above is just a basic overview. But I hope it helps you to start understanding the concept of styling in CSS.
+
+**KNOWLEDGE-REFERENCE(s)**
+[[2.1 - CSS - Styling - Color]]
+[[2.2 - CSS - Styling - Background]]
+[[2.3 - CSS - Styling - Borders]]
+[[2.4 - CSS - Styling - Font Properties]]
+[[2.5 - CSS - Styling - Deleting Bulletlist in a HTML file]]

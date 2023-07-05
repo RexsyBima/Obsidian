@@ -8,7 +8,7 @@ Sure thing, Rexsy! HTML is full of tags that we use to structure a web page. Her
 6. **`<h1>` to `<h6>`**: These tags are used for headings, with `<h1>` being the highest (and largest) level and `<h6>` being the lowest (and smallest).
 7. **`<p>`**: This tag defines a paragraph. [[5.2-HTML tags - basic - formatting texts tags]]
 8. **`<a>`**: This tag defines a hyperlink, which is used to link from one page to another.
-9. **`<img>`**: This tag is used to embed an image in a document. [[5.1-HTML tags - basic - img tag]]
+9. **`<img>`**: This tag is used to embed an image in a document. [[5.1-HTML tags - basic - img (image) tag]]
 10. **`<div>`**: This tag is a container used to group other elements and apply CSS styles to them.
 11. **`<span>`**: This is an inline container used for grouping and applying styles to inline elements.
 12. **`<ul>` and `<li>`**: These tags are used to create unordered (bulleted) lists.

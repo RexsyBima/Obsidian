@@ -1,4 +1,9 @@
-HTML (HyperText Markup Language) is the standard markup language used to create web pages. It defines the structure of web content.
+---
+tags:
+- HTML
+---
+
+HTML (HyperText Markup Language) is the stand ard markup language used to create web pages. It defines the structure of web content.
 
 HTML documents are made up of a series of tags, which are words or abbreviations enclosed in angle brackets (`< >`). Tags typically come in pairs with an opening tag and a closing tag, and they wrap the content they affect. For example, `<p>This is a paragraph.</p>`, where `<p>` is the opening tag and `</p>` is the closing tag.
 

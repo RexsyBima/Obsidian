@@ -31,3 +31,8 @@ div ~ p { color: green; }          /* Colors Paragraph 2 green */
 ```
 
 As you can see, the combination of selectors you choose can have a big impact on which elements get selected. Selecting elements wisely can make your CSS more efficient and easier to maintain. I hope this helps, and let me know if you have any further questions!
+
+**KNOWLEDGE-REFERENCE(s)**
+[[4.1 - CSS - Combinations of Selectors - Descendant Selector]]
+[[4.2 - CSS - Combinations of Selectors - Adjacent Sibling Selector]]]
+[[4.3 - CSS - Grouping Selectors]]

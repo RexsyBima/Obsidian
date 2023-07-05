@@ -1,3 +1,8 @@
+---
+tags:
+- HTML
+- Attributes
+---
 # HTML attributes are used to provide additional information about an element, define its properties, or configure an element's behavior in certain ways.
 
 Attributes usually come in name/value pairs like `name="value"` and are always defined in the start tag of an HTML element. Here are some commonly used HTML attributes:
